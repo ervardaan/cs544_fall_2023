@@ -1,7 +1,10 @@
-run disassembler.sh file
+running disassembler-
 
-make sure bash is the prompt in your computer and python3 is installed
+have python3
 
-run script using >./disassembler.sh
+$python3
+
+>>>import dis
+>>>dis.dis("z=x*y+2")
 
 
