@@ -9,4 +9,8 @@ $python3
 >>>dis.dis("z=x*y+2")
 ```
 
+Topic learnt:
+
+linux scripting+bash commands[keeping notion of Deployment]
+
 
