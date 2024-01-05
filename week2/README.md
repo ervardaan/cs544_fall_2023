@@ -16,3 +16,7 @@ Contexts this semester
 • Virtual Operating System (container)--Docker makes creation easy . The "physical" OS is shared, which is very efficient. Programs in different containers can uses different flavors of Linux
 • Virtual Memory (covered later lecture...)
 
+Containers and Virtual Machines are "Sandboxes"
+
+Resources of the "cluster"(group of containers inside a single VM) are limited to those of a single VM
+
