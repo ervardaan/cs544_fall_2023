@@ -5,6 +5,8 @@ topics learnt:
 2) Deployment tool Docker,cpu virtualization,SandBox,Registary of Docker images(Docker Hub),Docker Build commands, Denial of Service Attack, usage of ubuntu,alpine dokcker images,Docker processes,images, and logs,Docker I/O and terminal flags,Dockerfile scripting for automating docker images' creation
 
 use existing Docker images to launch containers
+
 define new Docker images using Dockerfiles
+
 troubleshoot common issues with running Docker containers
 
