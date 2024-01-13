@@ -11,3 +11,10 @@ minimize/maximize an output
 loss
 • prepare datasets using DataSet and DataLoader from 
 sources like CSVs
+
+• describe the interactions between schedulers, CPUs, threads, 
+and address spaces
+• decide for a given scenario whether to organize code as 
+single-threaded, multi-threaded, or multi-process
+• trace through different interleavings to identify race 
+conditions
